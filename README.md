@@ -1,4 +1,4 @@
-👋 Hello there! Welcome to my GitHub bio! Here's a brief introduction about me:
+###👋 Hello there! Welcome to my GitHub bio! Here's a brief introduction about me:
 
 🎓 I'm a dedicated student at 42 coding school. Currently, I'm focused on learning the fundamentals of C programming language, which serves as a solid foundation for many other languages.
 
