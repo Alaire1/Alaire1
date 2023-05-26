@@ -21,9 +21,9 @@
   
 <img src="https://github.com/Alaire1/Alaire1/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-<p align="left"> 
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true)
-<p align="right"> 
+
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true)](https://github.com/Alaire1)
 
 
