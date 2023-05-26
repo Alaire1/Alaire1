@@ -11,7 +11,7 @@
 🎮 Gaming is another passion of mine, especially RPGs (role-playing games). I love immersing myself in vast virtual worlds, embarking on epic quests, and unraveling captivating storylines.
 
 🔬 Additionally, I have a deep fascination with science. I constantly seek to expand my knowledge and stay up-to-date with the latest scientific discoveries.
-
+<br></br>
 🌟 I'm excited to be part of the GitHub community, where I can collaborate with fellow developers, share my projects, and contribute to open-source initiatives. If you have any questions, suggestions, or just want to connect, feel free to reach out. Let's learn and grow together on this coding journey!
 
 <h3> Connect with Me </h3>
