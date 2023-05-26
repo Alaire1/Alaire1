@@ -1,9 +1,9 @@
 # 👋 Hello there! Welcome to my GitHub bio!
-
+<br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/main/cfb081a4-7882-40dd-8176-521924ffac53.jpeg" width="500"/>
-<br>
+
 &nbsp;🎓 I'm a student at 42 coding school. Currently, I'm focused on learning the fundamentals of C programming language, which serves as a solid foundation for many other languages.
-<br>
+
 &nbsp;💻 Besides C, I also have experience with HTML, CSS, and JavaScript. These web technologies allow me to create dynamic and interactive websites, where I can bring my creative ideas to life.
 
 &nbsp;🎨 Art holds a special place in my heart. I enjoy expressing my creativity through drawing, both on paper and digitally.
