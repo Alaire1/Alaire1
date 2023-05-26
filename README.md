@@ -1,4 +1,4 @@
-### 👋 Hello there! Welcome to my GitHub bio! Here's a brief introduction about me:
+### 👋 Hello there! Welcome to my GitHub bio!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/My-files/main/cfb081a4-7882-40dd-8176-521924ffac53.jpeg?token=GHSAT0AAAAAACDCJU6542ZGN2RHKEHZVANQZDQCFVQ" width="500"/>
 
