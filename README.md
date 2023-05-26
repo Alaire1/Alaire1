@@ -6,9 +6,11 @@
 
 🎨 Art holds a special place in my heart. I enjoy expressing my creativity through drawing, both on paper and digitally.
 
-🎮 Gaming is another passion of mine, especially RPGs (role-playing games). I love immersing myself in vast virtual worlds, embarking on epic quests, and unraveling captivating storylines.
+🎮 Gaming is another passion of mine, especially RPGs (role-playing games). 
+I love immersing myself in vast virtual worlds, embarking on epic quests, and unraveling captivating storylines.
 
-🔬 Additionally, I have a deep fascination with science. I constantly seek to expand my knowledge and stay up-to-date with the latest scientific discoveries.
+🔬 Additionally, I have a deep fascination with science. 
+I constantly seek to expand my knowledge and stay up-to-date with the latest scientific discoveries.
 
 🌟 I'm excited to be part of the GitHub community, where I can collaborate with fellow developers, share my projects, and contribute to open-source initiatives. If you have any questions, suggestions, or just want to connect, feel free to reach out. Let's learn and grow together on this coding journey!
 
