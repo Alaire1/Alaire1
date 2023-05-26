@@ -11,3 +11,7 @@
 🔬 Additionally, I have a deep fascination with science. I constantly seek to expand my knowledge and stay up-to-date with the latest scientific discoveries.
 
 🌟 I'm excited to be part of the GitHub community, where I can collaborate with fellow developers, share my projects, and contribute to open-source initiatives. If you have any questions, suggestions, or just want to connect, feel free to reach out. Let's learn and grow together on this coding journey!
+
+<p align="center"> 
+&nbsp; <a href="https://www.instagram.com/alaire.art/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:anita.33672@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
