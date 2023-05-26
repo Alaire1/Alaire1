@@ -1,6 +1,6 @@
 # 👋 Hello there! Welcome to my GitHub bio!
 
-
+<br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/My-files/main/cfb081a4-7882-40dd-8176-521924ffac53.jpeg?token=GHSAT0AAAAAACDCJU64IUSVYB3GI4B2TY76ZDQEPVA" width="500"/>
 
 🎓 I'm a student at 42 coding school. Currently, I'm focused on learning the fundamentals of C programming language, which serves as a solid foundation for many other languages.
