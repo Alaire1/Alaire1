@@ -21,16 +21,13 @@
   
 <img src="https://github.com/Alaire1/Alaire1/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-</picture>
+<a href="https://github.com/Alaire1/Alaire1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alaire1&repo=Alaire1" />
+</a>
+<a href="https://github.com/Alaire1/Alaire1t">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alaire1&repo=Alaire1" />
+</a>
+
 
 
 
