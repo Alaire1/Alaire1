@@ -29,8 +29,7 @@
 </a>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true)
-[![Stats](https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true)](https://github.com/Alaire1)
+
 
 
 
