@@ -20,7 +20,7 @@
 &nbsp; <a href="mailto:anita.33672@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   
 <img src="https://github.com/Alaire1/Alaire1/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
