@@ -22,10 +22,10 @@
 <img src="https://github.com/Alaire1/Alaire1/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 <br>
 <a href="https://github.com/Alaire1/Alaire1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/Alaire1/Alaire1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=ambient_gradient" />
 </a>
 <br>
 <br>
