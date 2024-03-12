@@ -1,4 +1,4 @@
-# 👋 Hello there! Welcome to my GitHub bio!
+# 👋 Hello there!
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/main/cfb081a4-7882-40dd-8176-521924ffac53.jpeg" width="500"/>
 
@@ -22,7 +22,7 @@
 <img src="https://github.com/Alaire1/Alaire1/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 <br>
 <a href="https://github.com/Alaire1/Alaire1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=radical&hide=ObjectiveC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=radical&hide=Objective-C" />
 </a>
 <a href="https://github.com/Alaire1/Alaire1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=radical" />
