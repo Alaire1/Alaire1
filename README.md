@@ -2,18 +2,6 @@
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/main/cfb081a4-7882-40dd-8176-521924ffac53.jpeg" width="500"/>
 
-&nbsp;🎓 I'm a student at 42 coding school. Currently, I'm focused on learning the fundamentals of C programming language, which serves as a solid foundation for many other languages.
-
-&nbsp;💻 Besides C, I also have experience with HTML, CSS, and JavaScript. These web technologies allow me to create dynamic and interactive websites, where I can bring my creative ideas to life.
-
-&nbsp;🎨 Art holds a special place in my heart. I enjoy expressing my creativity through drawing, both on paper and digitally.
-
-&nbsp;🎮 Gaming is another passion of mine, especially RPGs (role-playing games). I love immersing myself in vast virtual worlds, embarking on epic quests, and unraveling captivating storylines.
-
-&nbsp;🔬 Additionally, I have a deep fascination with science. I constantly seek to expand my knowledge and stay up-to-date with the latest scientific discoveries.
-
-&nbsp;🌟 I'm excited to be part of the GitHub community, where I can collaborate with fellow developers, share my projects, and contribute to open-source initiatives. If you have any questions, suggestions, or just want to connect, feel free to reach out. Let's learn and grow together on this coding journey!
-
 ### Languages and frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
