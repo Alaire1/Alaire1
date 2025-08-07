@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&text=Hello%20there%20👋&fontColor=ffffff)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=ffffff&fontSize=50)
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="450"/>
