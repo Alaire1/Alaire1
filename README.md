@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7400b8&height=200&section=header&text=Hello%20there%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+![wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&text=Hello%20there%20👋&fontColor=ffffff)
 
-<br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" height="350"/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="450"/>
 
 ### Languages and frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
