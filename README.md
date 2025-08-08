@@ -1,7 +1,11 @@
 ![wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=ffffff&fontSize=50)
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="450"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="500"/>
+### About me 
+
+
+<br>
 
 ### Languages and frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -12,8 +16,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)
+
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 <h3> Connect with Me </h3>
 <p align="left"> 
 &nbsp; <a href="https://www.instagram.com/alaire.art/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
