@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="500"/>
 
 ### About me 
-
+Linux enthusiast and self-taught coder passionate about problem-solving and continuous learning. Turning curiosity into code, bugs into lessons, and challenges into growth.
 
 <br>
 
