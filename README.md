@@ -1,7 +1,7 @@
 ![wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=ffffff&fontSize=50)
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="550"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="510"/>
 
 ### About me 
 Linux enthusiast and self-taught coder passionate about problem-solving and continuous learning. Turning curiosity into code, bugs into lessons, and challenges into growth.
