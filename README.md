@@ -1,4 +1,13 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=ffffff&fontSize=50)
+<picture>
+  <!-- Dark mode version (white text) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=ffffff&fontSize=50" />
+  
+  <!-- Light mode version (black text) -->
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=000000&fontSize=50" />
+  
+  <!-- Fallback -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20there%20👋&fontColor=000000&fontSize=50" />
+</picture>
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alaire1/Alaire1/refs/heads/main/Banner.png" width="510"/>
