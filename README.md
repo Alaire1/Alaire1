@@ -59,13 +59,15 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 
 
 
-
+<p float="left">
   <a href="https://github.com/Alaire1/Alaire1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=aura_dark&rank_icon=github" />
-</a>
-<a href="https://github.com/Alaire1/Alaire1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=aura_dark&hide=Objective-C&langs_count=8" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=aura_dark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/Alaire1/Alaire1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=aura_dark&hide=Objective-C&langs_count=8" />
+  </a>
+</p>
+
 
 <br>
 <br>
