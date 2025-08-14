@@ -6,7 +6,6 @@
 ### About me 
 Linux enthusiast and self-taught coder passionate about problem-solving and continuous learning. Turning curiosity into code, bugs into lessons, and challenges into growth.
 
-<br>
 <h3> Connect with Me </h3>
 <p align="left"> 
 &nbsp; <a href="https://www.instagram.com/alaire.art/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
