@@ -23,6 +23,10 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 <tr>
 <td valign="top" width="50%">
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
@@ -62,9 +66,11 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 </td>
 <td valign="top" width="50%">
 
+<div align="right">
 <a href="https://github.com/Alaire1/Alaire1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=aura_dark&hide=Objective-C&langs_count=8" />
 </a>
+</div>
 
 </td>
 </tr>
