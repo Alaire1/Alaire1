@@ -64,7 +64,7 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 <a href="https://github.com/Alaire1/Alaire1">
   <img
     align="right"
-    width="420"
+    width="300"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&theme=aura_dark&layout=compact&hide=Objective-C&langs_count=8&card_width=420"
     alt="Top languages"
   />
@@ -72,7 +72,7 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
   <a href="https://github.com/Alaire1/Alaire1">
     <img 
       align="left" 
-      height="420"
+      height="300"
       src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=aura_dark&rank_icon=github"
       alt="Stats"
       />
