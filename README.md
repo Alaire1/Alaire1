@@ -20,9 +20,6 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 &nbsp; <a href="https://www.instagram.com/alaire.art/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:lz8c1qefw@mozmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
 
 ### 💻 Languages
 <p>
@@ -36,15 +33,15 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 
 ### 🌐 Web & Frameworks
 <p>
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/icons/django-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/django-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
-   </picture>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" title="Vite"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/icons/threejs-dark.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="icons/threejs-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" title="Three.js"/>
   </picture>
@@ -60,25 +57,27 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
 
-</td>
-<td valign="top" width="50%" align="right">
 
+
+<br><br>
+<br><br>
 <a href="https://github.com/Alaire1/Alaire1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=aura_dark&hide=Objective-C&langs_count=8" />
+  <img
+    align="right"
+    width="420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&theme=aura_dark&layout=compact&hide=Objective-C&langs_count=8&card_width=420"
+    alt="Top languages"
+  />
 </a>
-
-</td>
-</tr>
-</table>
-
-
-
-<br><br>
-<br><br>
   <a href="https://github.com/Alaire1/Alaire1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=aura_dark&rank_icon=github" />
+    <img 
+      align="left" 
+      height="420"
+      src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=aura_dark&rank_icon=github"
+      alt="Stats"
+      />
   </a>
- 
+  
 
 
 <br>
