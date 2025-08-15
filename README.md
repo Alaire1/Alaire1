@@ -19,7 +19,10 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 <p align="left"> 
 &nbsp; <a href="https://www.instagram.com/alaire.art/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:lz8c1qefw@mozmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><br>
-  
+ <table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
@@ -56,17 +59,26 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
 
+</td>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Alaire1/Alaire1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=aura_dark&hide=Objective-C&langs_count=8" />
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
-<p float="left">
   <a href="https://github.com/Alaire1/Alaire1">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaire1&show_icons=true&repo=Alaire1&theme=aura_dark&rank_icon=github" />
   </a>
   <a href="https://github.com/Alaire1/Alaire1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&show_icons=true&theme=aura_dark&hide=Objective-C&langs_count=8" />
   </a>
-</p>
+
 
 
 <br>
