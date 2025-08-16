@@ -83,6 +83,7 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
 
 <br clear="both"/>
   
+![Coding Stats](https://raw.githubusercontent.com/Alaire1/stats/main/coding_stats.svg)
 
 
 <br>
