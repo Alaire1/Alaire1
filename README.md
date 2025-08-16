@@ -76,7 +76,7 @@ Linux enthusiast and self-taught coder passionate about problem-solving and cont
     align="right"
     width="45%"
     height="250"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&theme=aura_dark&layout=compact&hide=Objective-C&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaire1&theme=aura_dark&layout=compact&hide=Objective-C,Roff,Makefile,Shell&langs_count=8"
     alt="Top languages"
   />
 </a>
